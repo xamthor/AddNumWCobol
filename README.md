@@ -19,6 +19,11 @@ This Cobol code takes two integers inputs and computes the integers and outputs 
 $ cobc -x AddNums.cbl
 ```
 
+```sh
+$ cd \AddNumsVX.X
+$ AddNums.exe
+```
+
 ### Todos
 
  - Write Tests
