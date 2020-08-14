@@ -4,7 +4,7 @@ This Cobol code takes two integers inputs and computes the integers and outputs 
 
 # Road Map Features
 
-  - Add ability to subtract the integers
+  - ~~Add ability to subtract the integers~~
   - Add ability to multiply the integers
   - Add ability to divide the integers
 
