@@ -20,13 +20,13 @@
             DISPLAY "What type of operation would you like to perform"
             DISPLAY "Add, Sub"
             ACCEPT UserInput
-    
+
             DISPLAY "Enter First Number: "
             ACCEPT NumOne.
 
             DISPLAY "Enter Two Number: "
             ACCEPT NumTwo.
-            
+
             IF UserInput EQUAL "Add"
                ADD NumOne,NumTwo TO FinalNum
                DISPLAY "Holly Shizzz the two Numbers EQUAL ",  FinalNum
@@ -34,7 +34,7 @@
                SUBTRACT NumOne FROM NumTwo
                MOVE NumTwo to FinalNum
                DISPLAY "Holly Shizzz the two Numbers EQUAL ",  FinalNum
-              
+
             STOP RUN.
 
        END PROGRAM Hello-NAME.
